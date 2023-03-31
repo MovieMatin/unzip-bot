@@ -50,7 +50,7 @@ while running:
         if check_logs():
             LOGGER.info("Log channel alright")
             LOGGER.info("Starting bot…")
-            LOGGER.info("Bot is running now ! Join @EDM115bots")
+            LOGGER.info("Bot is running now ! Join @Matiz_Techz")
             idle()
         else:
             try:
