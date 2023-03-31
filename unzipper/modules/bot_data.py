@@ -192,10 +192,10 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 • **Language :** [Python 3.11.1](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.99](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot/tree/beta)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Source code :** [Matiz/unzip-bot](https://t.me/Md_Matin_Ashraf)
+• **Developer :** [Matin](https://t.me/Md_Matin_Ashraf)
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by @Matiz_Techz**
     """
 
     LOG_TXT = """
@@ -239,7 +239,7 @@ Select the extraction mode for that {} 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+Successfully extracted by@UnzipperzipperBot 🥰
     """
 
     URL_UPLOAD = """
@@ -255,7 +255,7 @@ An error happened for `{}` 😕
 **Error type :** `{}`
 **Error message :** `{}`
 
-Please report this at @EDM115 if you think this is a serious error
+Please report this at @Matiz_Tech if you think this is a serious error
     """
 
     REPORT_TEXT = """
@@ -297,7 +297,7 @@ have been saved from the URL
 
 **⚠ IN ALL CASES ⚠**, please send **/clean**, else you couldn’t send any other task 🙂🔫 (may be fixed in the future)
 
-Please report this at @EDM115 if you think this is a serious error
+Please report this at @Matiz_Tech if you think this is a serious error
     """
 
     ERROR_TXT = """
@@ -305,7 +305,7 @@ Please report this at @EDM115 if you think this is a serious error
 
 `{}`
 
-Please report this at @EDM115 if you think this is a serious error
+Please report this at @Matiz_Tech if you think this is a serious error
     """
 
     CANCELLED_TXT = """
