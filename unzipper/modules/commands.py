@@ -266,7 +266,7 @@ async def report_this(_, message: Message):
         chat_id=Config.LOGS_CHANNEL,
         text=Messages.REPORT_TEXT.format(u_id, r_msg.text.markdown),
     )
-    await sd_msg.edit("Report sucessfully sent ! An answer will arrive soon\n\nNote : if you need to reply to replies, always use that /report command (or join **@EDM115_chat**)")
+    await sd_msg.edit("Report sucessfully sent ! An answer will arrive soon\n\nNote : if you need to reply to replies, always use that /report command (or join **@Matiz_Tech**)")
 
 
 @Client.on_message(filters.command("ban") & filters.user(Config.BOT_OWNER))
