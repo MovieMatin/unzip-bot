@@ -157,7 +157,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 
 I can extract archives like `zip`, `rar`, `tar`, …
 
-**Made with ❤️ by @EDM115bots**
+**Made with @Matiz_Tech ❤️ by **
     """
     # **This is BETA version !** May be a lot buggy, but with new features. Better waiting for the stable version at daytime… 🙂
 
@@ -184,7 +184,7 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115**
+    PM me at **@Matiz_Tech**
     """
 
     ABOUT_TXT = """
