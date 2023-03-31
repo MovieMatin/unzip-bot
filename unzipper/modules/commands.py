@@ -260,7 +260,7 @@ async def report_this(_, message: Message):
     r_msg = message.reply_to_message
     u_id = message.from_user.id
     if not r_msg:
-        return await sd_msg.edit("Reply to a message to report it to @EDM115")
+        return await sd_msg.edit("Reply to a message to report it to @Md_Matin_Ashraf")
     await sd_msg.edit("Sending it, please wait… 😪")
     await unzipperbot.send_message(
         chat_id=Config.LOGS_CHANNEL,
@@ -568,7 +568,7 @@ Here's all the commands that only the owner (you) can use :
 **/dbdive** : Useless. Will provide a way to see it online, but MongoDB already does it
 **/redbutton** : Will fully restart bot + server
 **/cleanall** : Same as `/clean`, but for the whole server
-**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@EDM115** if you don't understand them/need help
+**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@Md_Matin_Ashraf** if you don't understand them/need help
 **/restart** : Does a basic restart, less intrusive as the `/redbutton` one
 **/dbexport** : Exports the whole database as CSV
 **/admincmd** : This message
