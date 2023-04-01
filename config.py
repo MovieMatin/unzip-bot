@@ -4,7 +4,7 @@ import os
 
 class Config:
     APP_ID = 15236804
-    API_HASH = os.environ.get"409da5b68ad699091fa72b381921f0e5"
+    API_HASH = "409da5b68ad699091fa72b381921f0e5"
     BOT_TOKEN = os.environ.get"5612635073:AAF03jY6fawSLM9BGYpNB8_JKdnDlgyr-qs"
     LOGS_CHANNEL = int(os.environ.get"-1001684353224"
     MONGODB_URL = os.environ.get"mongodb+srv://mdmatinnew:Hg72p3iCsni9Olbf@cluster0.j2hvxhj.mongodb.net/?retryWrites=true&w=majority"
