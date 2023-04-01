@@ -8,7 +8,7 @@ class Config:
     BOT_TOKEN = "5612635073:AAF03jY6fawSLM9BGYpNB8_JKdnDlgyr-qs"
     LOGS_CHANNEL = "-1001684353224"
     MONGODB_URL = "mongodb+srv://mdmatinnew:Hg72p3iCsni9Olbf@cluster0.j2hvxhj.mongodb.net/?retryWrites=true&w=majority"
-    BOT_OWNER = int("1963114305"
+    BOT_OWNER = "1963114305"
     DOWNLOAD_LOCATION = f"{os.path.dirname(__file__)}/Downloaded"
     THUMB_LOCATION = f"{os.path.dirname(__file__)}/Thumbnails"
     TG_MAX_SIZE = 2040108421
